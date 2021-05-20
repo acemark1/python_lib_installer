@@ -1,0 +1,7 @@
+pandas
+numpy 
+PyQt5
+SciPy
+Scrapy
+Requests
+BeautifulSoup
