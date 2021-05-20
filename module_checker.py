@@ -1,4 +1,5 @@
 import importlib
+
 with open("lib.txt", "r") as file: 
     data = file.read(); 
     try: 
@@ -6,4 +7,4 @@ with open("lib.txt", "r") as file:
     except: 
         print("Error: " + data); 
 
-input() 
+
