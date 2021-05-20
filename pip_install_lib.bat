@@ -9,7 +9,7 @@ for /f %%a in (lib.txt) do (
 
 
 echo -----Checking installation
-python s.py
+python module_checker.py
 
 
 pause
